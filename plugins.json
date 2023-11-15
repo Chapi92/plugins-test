@@ -30,5 +30,21 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/mgXhVDasdUEUq",
+    "provider": "Chapi92",
+    "name": "rsn-hider TEST",
+    "description": "A rsn-hider",
+    "id": "rsn-hider-plugin",
+    "releases": [
+      {
+        "date": "2022-07-19",
+        "sha512sum": "bda0e3dae348e2e77915948a6213d8bcd06b0c2617be4d86fa270204efc18663b222fb485578ac1d6f25432b7a94c81f8c1ad1beded77547d3b20667aabfab22",
+        "version": "1.2.4",
+        "url": "https://github.com/Chapi92/plugins-test/blob/master/release/rsn-hider_1.2.4.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
