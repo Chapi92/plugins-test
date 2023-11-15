@@ -40,7 +40,7 @@
     "releases": [
       {
         "date": "2022-07-19",
-        "sha512sum": "d3c13d95a6cb14000d77b99c10536d3174bd51c52f87fcd177ea06d75111eb7a0285beceb3844d572492c72c623cde7fc1898ba254399908def4185ca03b1717",
+        "sha512sum": "b33acc111115106847d68c8c3f265e2cd651cf90a4b5c80a47154cdd340f4d6d37f72a94340a91f2a8a34e389edcd133e627bf38f7db45bc34c545316e0ffcc4",
         "version": "1.0.5",
         "url": "https://github.com/Chapi92/plugins-test/blob/master/release/hd-1.0.5.jar?raw=true",
         "requires": "^1.0.0"
