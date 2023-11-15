@@ -46,5 +46,21 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/mgXhVDasdUEUq",
+    "provider": "Chapi92",
+    "name": "Built 117HD",
+    "description": "A rsn-hider",
+    "id": "hd-plugin",
+    "releases": [
+      {
+        "date": "2022-07-19",
+        "sha512sum": "d4a0fba559a97759973c77f67938365bb3fa6cada2fc3157a87b3a82a04ee9e901cade8ff0c31cf2e4c12ae9e50f278b8c3fc13791e346d6c0aa391624d25aae",
+        "version": "1.0.5",
+        "url": "https://github.com/Chapi92/plugins-test/blob/master/release/hd-1.0.5.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
