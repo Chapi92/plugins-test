@@ -10,7 +10,7 @@
         "date": "2022-07-19",
         "sha512sum": "2cb12598e8e9af6cfa42b521f8a33b74bae756f3ba5b18bf2f804d5b3e75ff51af43fa28f2f2272f3483428581b14406836265c7d9c00aad00ce4e2d724a2e69",
         "version": "6.0.0",
-        "url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-6.0.0.jar?raw=true",
+        "url": "https://github.com/Chapi92/plugins-test/blob/master/release/alchemicalhydra-6.0.0.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
@@ -26,7 +26,7 @@
         "date": "2022-07-19",
         "sha512sum": "c3be95fe45bc861a9f8a343ec0fe4882b68135e719e67c0971af6ee0fa47b9df43b4c7e0645d80551fc5ea34bce241b2ff39273c33db03a4c2670332651ca738",
         "version": "1.0.0",
-        "url": "https://github.com/xKylee/plugins-release/blob/master/release/117hd_1.0.0.jar?raw=true",
+        "url": "https://github.com/Chapi92/plugins-test/blob/master/release/117hd_1.0.0.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
