@@ -18,15 +18,15 @@
   {
     "projectUrl": "https://discord.gg/mgXhVDUsEUq",
     "provider": "Chapi92",
-    "name": "HD custom test",
+    "name": "117 HD",
     "description": "A HD custom 117 test.",
-    "id": "117hdtest-plugin",
+    "id": "117hd-plugin",
     "releases": [
       {
         "date": "2022-07-19",
-        "sha512sum": "c3be95fe45bc861a9f8a343ec0fe4882b68135e719e67c0971af6ee0fa47b9df43b4c7e0645d80551fc5ea34bce241b2ff39273c33db03a4c2670332651ca738",
-        "version": "1.0.0",
-        "url": "https://github.com/Chapi92/plugins-test/blob/master/release/117hd_1.0.0.jar?raw=true",
+        "sha512sum": "6b28f68285ad7cbaf5d437932c87fdb9a3ce81713d64d8a86a56606c07e5ba423344a34d77588413744005611e6bca7ee616d6c31b0c0176447929bc635c204b",
+        "version": "1.2.8",
+        "url": "https://github.com/Chapi92/plugins-test/blob/master/release/117hd_1.2.8.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
